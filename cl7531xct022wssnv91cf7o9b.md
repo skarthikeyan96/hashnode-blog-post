@@ -29,7 +29,7 @@ Quick intro about me before getting started.
 
 *P.S This is my second non-tech article. This is my [first article](https://imkarthikeyans.hashnode.dev/my-journey-towards-technical-writing), if you would like to give it a read.*
 
-# Level 1 - High School :
+# Level 1 - High School 
 
 In my high school, I used to memorize computer programs for my exams. I was never interested in computer science 😩. After finishing high school , I did not know what path to choose. My brother suggested me to choose computer science engineering. I was actually scared at first but I went for it finally.
 
