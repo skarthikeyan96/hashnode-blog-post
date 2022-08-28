@@ -4,7 +4,7 @@
 
 Hello everyone, 
 
-I will be sharing with you , my journey towards technology and How did I become a developer. This blog will be part of the first series on #4Articlesin4weeks. 
+This blog will be part of the first series on #4Articlesin4weeks. I will be sharing with you , my journey towards technology and how I became a developer. 
 
 Quick intro about me before getting started.
 
@@ -31,7 +31,7 @@ Quick intro about me before getting started.
 
 # Level 1 - High School 
 
-In my high school, I used to memorize computer programs for my exams. I was never interested in computer science 😩. After finishing high school , I did not know what path to choose. My brother suggested me to choose computer science engineering. I was actually scared at first but I went for it finally.
+In high school, I used to memorize computer programs for my exams. I was never interested in computer science 😩. After finishing high school , I did not know what path to choose. My brother suggested me to choose computer science engineering. I was actually scared at first but I went for it finally.
 
 ![https://media.giphy.com/media/qI9irUlmtuzuJzyjdf/giphy.gif](https://media.giphy.com/media/qI9irUlmtuzuJzyjdf/giphy.gif)
 
@@ -39,7 +39,7 @@ In my high school, I used to memorize computer programs for my exams. I was neve
 
 # Level 2 - College 
 
-My parents bought me my first PC during my first year somewhere around mid 2013. Below is the configuration 
+My parents bought me my first personal computer in my first year, around mid-2013. Below is the configuration
 
 ```
 Processor : Intel i3 
@@ -48,30 +48,36 @@ HDD: 500GB
 RAM: 4GB
 
 ```
-When I first started my college, I was actually scared how I am going to get through this ? Then I thought , let's give it a shot. What could go wrong ?
+When I started my college, I was actually scared of how I am going to get through this. Then I thought , let's give it a shot. What could go wrong?
 
 ![https://media.giphy.com/media/MYxJgJ4ydEWcCRzg29/giphy.gif](https://media.giphy.com/media/MYxJgJ4ydEWcCRzg29/giphy.gif)
 
-My intuition turned out be right. I started to love coding , when I understood how computers process the information. The problems  which you can solve with help of code was also what reeled me into computer science field. 
+My intuition turned out to be correct. I started to love coding when I understood how computers process information. The problems you can solve with the help of code also reeled me into the computer science field.
 
-I started learn to code using C and C++. Slowly started poking around internet to see what else I can do. I was fascinated by website animations and the portfolio’s of other developers. I wanted to create a website for myself. That's when I started learning HTML, CSS and Javascript. I created a very basic website with some details. 
+I started learning to code using C and C++. It helped to create a foundation for the rest of the things I learned in the future related to tech. 
+
+Then, I slowly started poking around the internet to see what else I could do. I was fascinated by website animations and the portfolios of other developers. So, I wanted to create a website for myself. That's when I started learning HTML, CSS, and Javascript. Then, I made a very basic website with some details. 
 
 *P.S  Tried finding the site in my mail archives, misson was unsuccessful.* 😔
 
-I participated in one of the hackathon conducted by my college. The task was to  build an application to solve a problem under specific categories. 
+I participated in a hackathon conducted by my college. The task was to build an application to solve a problem under specific categories. 
 
-The problem which our team was trying to solve was , we needed an interface where students can interact with teachers to clarify the doubts and also can submit assignments that can be evaluated by the teachers. 
+The problem which our team was trying to solve was , we needed an interface where students can interact with teachers to clarify their doubts and submit assignments that the teachers could evaluate.
 
-I learnt PHP and MySQL and built a full stack application. Even though we did not win , the process and the learning was great. I got to learn new things 🥳. 
+I learned PHP and MySQL and built a full-stack application to solve the problem. Even though we did not win , the process and the learning was great. I got to learn new things 🥳. 
+
+
+![quote](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/57nyr4st7i1tued0xtk1.png)
+
 
 **Learning:** DO NOT build all the features for the application just focus on the MVP ( Minimum viable product ).
 
-One more good thing that happened from the hackathon was , it steered me towards learning new things related to technology on my own, through practice.  That is actually the moment when I realised that choosing this field was the right decision.
+One more good thing about the hackathon was that it steered me towards learning new things related to technology on my own through practice. That was when I realized that choosing this field was the right decision.
 
 ![https://media.giphy.com/media/oFLKggCx5hFxS/giphy.gif](https://media.giphy.com/media/oFLKggCx5hFxS/giphy.gif)
 
 
-**Learning**: When you solve programming problems , you might not get the logic in a day or 2 days or even a week. My suggestion would be is **do not give up**,  keep trying and keep solving easier problems daily. 
+**Learning**: When you solve programming problems, you might not get the logic in a day, two days, or even a week. My suggestion would be **do not give up**, keep trying, and solve easier problems daily.
 
 > If it scares you so much, that’s when you need to do it.
 > 
@@ -85,15 +91,18 @@ Now I am working as Software Engineer @ Granicus mainly focused on using web tec
 
 Thanks to the decision which I took in high school which has led me here. I am very grateful for that. 
 
-Few learnings from my part which I would tell me younger self , before closing up. 
+Few learnings from my part, which I would tell my younger self before closing up. 
 
 1. Be patient. 
 2. Do not give up. 
-3. Always be curious . 
-4. Even if it is a small thing you learn , share it with community in the form of blog or a video, 
+3. Always be curious. 
+4. Even if it is a small thing you learn, share it with the community through a blog or a video.
 
-Thank you reading my story. Hope it was not boring and let me know your thoughts in the comments. If you would like to connect , I am available on [Twitter](https://twitter.com/karthik_coder). 
+The process of learning and development is a never ending journey. So whenever I learn new things, I will share them on the platform. See you, everyone, in my next blog 👋.
 
-Thank you 
+![https://media.giphy.com/media/lOJKLVYkNDWN8GoPoA/giphy.gif](https://media.giphy.com/media/lOJKLVYkNDWN8GoPoA/giphy.gif)
+
+Thank you for reading my story. I hope it was helpful, and let me know your thoughts in the comments. Also, if you would like to connect, I am available on [Twitter](https://twitter.com/karthik_coder). 
+
 
 Happy Hacking 🚀
