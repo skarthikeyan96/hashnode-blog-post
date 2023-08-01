@@ -4,6 +4,7 @@ datePublished: Tue Aug 01 2023 07:58:02 GMT+0000 (Coordinated Universal Time)
 cuid: clks0bi9x000c09mi82yfes4k
 slug: introducing-odyssey-personal-journal
 cover: https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/cckf4TsHAuw/upload/207ac9c966f384351bb09069fa1b0657.jpeg
+tags: awsamplify, awsamplifyhackathon
 
 ---
 
