@@ -3,6 +3,7 @@ title: "What Are Callbacks? An Easy Explanation"
 datePublished: Fri Jun 14 2024 09:01:48 GMT+0000 (Coordinated Universal Time)
 cuid: clxegmekp000408mi77cub0xb
 slug: what-are-callbacks-an-easy-explanation
+canonical: https://dev.to/imkarthikeyan/one-byte-explainer-callbacks-34bo
 cover: https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/cckf4TsHAuw/upload/cb65aa28d1d2a7078d974184c6718083.jpeg
 tags: javascript, web-development
 
