@@ -59,3 +59,19 @@ app.listen(3000, () => {
 Now in your terminal run `npm run dev` and if you check the browser , you should see the following
 
 ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1719390796712/2fbb5f58-625c-4a65-a263-7ff903e35ef1.png align="center")
+
+Now , let's add the typescript to our project. Install the following dependencies
+
+```bash
+npm i -D typescript @types/express @types/node
+```
+
+Once done, let's initalize the `tsconfig` for our project
+
+> `tsconfig.json` is a configuration file for TypeScript that specifies the root files and compiler options needed to compile a TypeScript project.
+
+Run the following command in your terminal
+
+```bash
+npx tsc --init
+```
