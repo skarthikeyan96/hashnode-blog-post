@@ -35,3 +35,27 @@ Install the following dependencies to setup our basic node server. Later we will
 ```bash
 npm i express dotenv
 ```
+
+Create the index.js file in the `src` folder and the following code
+
+```javascript
+const express = require('express');
+const dotenv = require('dotenv');
+
+dotenv.config();
+
+const app = express();
+const port = process.env.PORT;
+
+app.get('/', (req, res) => {
+  res.send('Express + TypeScript Server');
+});
+
+app.listen(3000, () => {
+  console.log('[server]: Server is running at http://localhost:3000');
+});
+```
+
+Now in your terminal run `npm run dev` and if you check the browser , you should see the following
+
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1719390796712/2fbb5f58-625c-4a65-a263-7ff903e35ef1.png align="center")
