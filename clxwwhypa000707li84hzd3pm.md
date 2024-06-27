@@ -75,3 +75,5 @@ Run the following command in your terminal
 ```bash
 npx tsc --init
 ```
+
+This will add the basic `tsconfig.json` file in your root
