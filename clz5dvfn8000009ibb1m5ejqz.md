@@ -12,11 +12,11 @@ In this blog, I’m thrilled to unveil **Commit-Sensei**, an interactive CLI too
 
 ## 🚀 Reason Behind Implementation:
 
-Every time I commit code, I need to come up with commit message that is short , fit the standards at the same time more descriptive 🤯.
+Every time I commit code, I need to come up with a commit message that is short , fits the standards at the same time more descriptive 🤯.
 
 I decided , why not let the AI do the process. Hence the idea was born to automate the commit process.
 
-Next step what I did was research , is there any tools which already do the same thing.
+The next step was to research whether there were any tools that already did the same thing
 
 ![](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnd5M3BxMDZuOWcyY243Y2hjeDVzOG85a2gybDZqeGJkNjJnZ21yZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/6y6fyAD9OIE6NvhJEu/giphy.gif align="center")
 
@@ -186,7 +186,7 @@ This command analyzes the staged changes, generates a message, and offers an opt
 
 ## Conclusion
 
-Thank you for tuning in. Application will be under continuous development. Comments and Feedbacks are most welcome. Thank you Hashnode for the hackathon , learned a lot in the process.
+Thank you for tuning in. Application will be under continuous development. Comments and Feedbacks are most welcome. Thank you, Hashnode, for the hackathon; I learned a lot in the process.
 
 **Github link**: [https://github.com/skarthikeyan96/commit-sensei](https://github.com/skarthikeyan96/commit-sensei)
 
