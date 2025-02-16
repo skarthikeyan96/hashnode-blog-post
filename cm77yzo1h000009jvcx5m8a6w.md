@@ -3,7 +3,7 @@ title: "Understanding Graphs in JavaScript: Adjacency Matrix vs. Adjacency List"
 datePublished: Sun Feb 16 2025 18:38:40 GMT+0000 (Coordinated Universal Time)
 cuid: cm77yzo1h000009jvcx5m8a6w
 slug: understanding-graphs-in-javascript-adjacency-matrix-vs-adjacency-list
-cover: https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/cckf4TsHAuw/upload/ef2a2a2fc3a847fce5ecd7543f4f1cc6.jpeg
+cover: https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/q10VITrVYUM/upload/19deb1cd2123c6dbfb905b7e2585bd55.jpeg
 tags: computer-science, datastructure, datastructuresandalogrithm
 
 ---
